@@ -1,0 +1,4 @@
+flask
+python-dotenv
+tinyDB
+flask_pydantic_spec
