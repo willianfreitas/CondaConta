@@ -3,8 +3,6 @@ from tinydb import TinyDB, Query
 from flask_pydantic_spec import FlaskPydanticSpec, Response, Request
 from pydantic import BaseModel
 
-import sys
-
 #------------------------------------------------------------------
 # Inicialização do projeto
 app = Flask(__name__)
